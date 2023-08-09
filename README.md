@@ -1,0 +1,2 @@
+# pycharmprojects
+for myself
